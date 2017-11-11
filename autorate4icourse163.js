@@ -6,6 +6,7 @@
 // @description  网易云课堂自动评作业
 // @author       DuckSoft
 // @match        http://www.icourse163.org/learn/*
+// @match        http://www.icourse163.org/spoc/learn/*
 // @require      http://cdn.bootcss.com/jquery/1.8.3/jquery.min.js
 // ==/UserScript==
 
