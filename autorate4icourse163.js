@@ -2,11 +2,11 @@
 // ==UserScript==
 // @name         AutoRate4iCourse163
 // @namespace    http://github.com/ducksoft
-// @version      0.1
+// @version      0.2
 // @description  网易云课堂自动评作业
 // @author       DuckSoft & Nekokir
-// @match        http://www.icourse163.org/learn/*
-// @match        http://www.icourse163.org/spoc/learn/*
+// @match        *://www.icourse163.org/learn/*
+// @match        *://www.icourse163.org/spoc/learn/*
 // @require      http://cdn.bootcss.com/jquery/1.8.3/jquery.min.js
 // ==/UserScript==
 
