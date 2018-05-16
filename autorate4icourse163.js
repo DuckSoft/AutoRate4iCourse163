@@ -18,8 +18,8 @@
         var box = document.getElementById('courseLearn-inner-box');
         if (box) {
             box.addEventListener('dblclick', function(){
-                [].forEach.call(document.getElementsByClassName('s'), e => e.children[e.children.length-1].children[0].checked=true);
-                [].forEach.call(document.getElementsByName('inputtxt'), e => e.value='666');
+                [].forEach.call(document.getElementsByClassName('s'), e => {e.children[e.children.length-1].children[0].checked=true});
+                [].forEach.call(document.getElementsByName('inputtxt'), e => {e.value='666'});
                 document.getElementsByClassName('j-submitbtn')[0].click();
             });
         }
