@@ -1,5 +1,7 @@
 # AutoRate4iCourse163
-![GitHub contributors](https://img.shields.io/github/contributors/DuckSoft/AutoRate4iCourse163.svg) ![license](https://img.shields.io/github/license/DuckSoft/AutoRate4iCourse163.svg) [![greasefork](https://img.shields.io/badge/greasyfork-available-brightgreen.svg)](https://greasyfork.org/zh-CN/scripts/39745-autorate4icourse163)
+[![repo](https://img.shields.io/badge/github-repo-blue.svg)](https://github.com/DuckSoft/AutoRate4iCourse163)
+![license](https://img.shields.io/github/license/DuckSoft/AutoRate4iCourse163.svg)
+[![greasefork](https://img.shields.io/badge/greasyfork-available-brightgreen.svg)](https://greasyfork.org/zh-CN/scripts/39745-autorate4icourse163)
 
 （油猴脚本）（应邀）网易云课堂自动评作业
 
