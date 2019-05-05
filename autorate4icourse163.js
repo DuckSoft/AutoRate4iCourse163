@@ -9,7 +9,7 @@
 // @match        *://www.icourse163.org/spoc/learn/*
 // ==/UserScript==
 
-(() => {
+(function() {
     "use strict";
     (f => {
         if (document.addEventListener) window.addEventListener("load", f, false);
